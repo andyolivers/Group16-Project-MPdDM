@@ -1,0 +1,494 @@
+ID,ID_ORIGINAL,Gender,Foreign_Citizenship,Age,Frequent_Traveler,Cellphone_Usage,Household_Size,Satisfaction_Level,Occupation,Political_Participation,Social_Person,Area_Residence,Military_Service,Household_Income
+9000,460139,Male,No,26,No,Low,6.0,1.0,Private company,Unknown,Yes,City,Intervention in Libya,7566.0
+9001,460648,Female,,29,No,Low,1.0,3.0,Nothing,No involvement,Yes,City,Intervention in Libya,10088.0
+9002,460835,Female,Yes,28,Yes,Low,1.0,3.0,Private company,Unknown,Yes,City,Intervention in Libya,0.0
+9003,461613,Female,No,25,Yes,Low,4.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,10088.0
+9004,461721,Male,No,26,Yes,Low,5.0,1.0,Private company,Strong involvement,Yes,City,Intervention in Libya,8827.0
+9005,461933,Male,No,18,No,Low,2.0,1.0,Government,No involvement,Yes,City,Intervention in Libya,0.0
+9006,462518,Female,No,26,No,Low,6.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,0.0
+9007,462799,Male,No,26,No,Low,,,Private company,Some involvement,Yes,City,Intervention in Libya,
+9008,462814,Female,Yes,22,No,Average,2.0,2.0,Private company,No involvement,Yes,City,Intervention in Libya,10088.0
+9009,462828,Male,No,25,No,Low,3.0,1.0,Student,No involvement,Yes,City,Intervention in Libya,3783.0
+9010,463229,Female,No,22,No,Low,1.0,3.0,Student,No involvement,Yes,City,Intervention in Libya,0.0
+9011,463351,Female,No,22,,Low,4.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,3783.0
+9012,463357,Male,Yes,27,Yes,Average,2.0,2.0,Government,No involvement,Yes,City,Intervention in Libya,0.0
+9013,463541,Female,No,26,No,Low,3.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,0.0
+9014,463568,Female,No,26,No,Low,,,Private company,Some involvement,Yes,City,Intervention in Libya,1261.0
+9015,463605,Female,No,23,No,Low,5.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,0.0
+9016,463778,Female,No,27,No,Low,4.0,1.0,Private company,No involvement,Yes,City,Intervention in Libya,1261.0
+9017,463814,Female,No,26,No,Low,3.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,7566.0
+9018,464098,Female,No,28,No,Low,6.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,0.0
+9019,464297,Male,No,26,No,Low,5.0,1.0,Private company,Unknown,Yes,City,Intervention in Libya,10088.0
+9020,464517,Male,No,26,Yes,Low,,,Private company,Some involvement,Yes,City,Intervention in Libya,1261.0
+9021,465436,Female,No,25,Yes,Low,3.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,0.0
+9022,465497,Male,No,25,No,Low,3.0,1.0,Nothing,No involvement,Yes,City,Intervention in Libya,17654.0
+9023,465522,Female,No,29,Yes,Low,8.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,2522.0
+9024,465546,Female,No,25,No,Low,9.0,1.0,Student,No involvement,Yes,City,Intervention in Libya,1261.0
+9025,466614,Male,No,21,No,Low,6.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,1261.0
+9026,466692,Female,,27,No,Low,1.0,3.0,Private company,No involvement,Yes,City,Intervention in Libya,1261.0
+9027,466857,Female,No,19,No,Low,8.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,11349.0
+9028,467817,Female,No,23,No,Low,5.0,1.0,Nothing,No involvement,Yes,City,Intervention in Libya,0.0
+9029,467905,Male,Yes,43,Yes,High,3.0,2.0,Public company,No involvement,No,City,Never,0.0
+9030,467906,Female,No,33,No,Low,5.0,1.0,Private company,Some involvement,Yes,City,Intervention in Syria,0.0
+9031,467909,Female,No,45,Yes,Low,1.0,5.0,Government,No involvement,No,City,Never,0.0
+9032,467910,Female,No,21,No,Low,3.0,1.0,Government,No involvement,Yes,City,Intervention in Iraq,1261.0
+9033,467911,Male,Yes,61,Yes,Low,4.0,2.0,Private company,Some involvement,No,City,Never,1261.0
+9034,467912,Male,Yes,61,Yes,Low,2.0,4.0,Private company,Strong involvement,Yes,City,Intervention in Libya,1261.0
+9035,467914,Female,No,18,No,Low,5.0,1.0,Private company,Some involvement,No,City,Never,10088.0
+9036,467917,Female,No,27,Yes,Low,4.0,1.0,Private company,Some involvement,Yes,City,Intervention in Syria,3783.0
+9037,467920,Female,No,40,No,Low,1.0,4.0,Private company,No involvement,No,City,Never,10088.0
+9038,467921,Female,No,43,Yes,Low,4.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9039,467922,Male,Yes,84,Yes,High,2.0,5.0,Private company,Strong involvement,No,City,Never,0.0
+9040,467924,Male,Yes,52,Yes,Low,3.0,2.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9041,467925,Female,No,28,Yes,Low,7.0,1.0,Private company,Unknown,Yes,City,Never,3783.0
+9042,467927,Male,No,31,Yes,Low,6.0,1.0,Government,No involvement,Yes,City,Never,10088.0
+9043,467931,Male,No,25,Yes,Low,2.0,2.0,Government,No involvement,No,City,Never,0.0
+9044,467932,Female,No,28,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9045,467933,Female,No,23,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9046,467934,Female,No,40,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,1261.0
+9047,467935,Male,No,23,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,8827.0
+9048,467936,Male,No,27,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9049,467940,Female,No,29,No,Low,4.0,1.0,Student,No involvement,Yes,City,Never,11349.0
+9050,467941,Female,No,27,Yes,Low,3.0,1.0,Government,No involvement,No,City,Never,1261.0
+9051,467948,Female,No,20,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9052,467949,Male,No,22,No,Low,4.0,1.0,Private company,Some involvement,Yes,Country-side,Never,1261.0
+9053,467950,Female,No,38,Yes,Low,2.0,2.0,Private company,Strong involvement,No,City,Never,0.0
+9054,467951,Male,No,31,Yes,Low,3.0,2.0,Private company,Strong involvement,No,City,Never,1261.0
+9055,467953,Female,Yes,37,Yes,Low,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9056,467954,Male,No,31,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,10088.0
+9057,467955,Female,Yes,39,Yes,Low,,,Private company,Unknown,Yes,Country-side,Never,11349.0
+9058,467958,Female,No,43,Yes,Low,1.0,5.0,Government,No involvement,No,City,Never,0.0
+9059,467959,Female,No,26,No,Low,1.0,3.0,Private company,No involvement,Yes,City,Never,0.0
+9060,467962,Female,No,20,No,Low,,,Private company,Some involvement,No,City,Never,0.0
+9061,467963,Male,No,21,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9062,467965,Female,No,37,Yes,Low,2.0,2.0,Private company,Some involvement,No,City,Never,1261.0
+9063,467966,Female,No,31,Yes,Low,3.0,2.0,Private company,Strong involvement,Yes,City,Intervention in Iraq,11349.0
+9064,467967,Male,No,30,Yes,Low,4.0,1.0,Private company,Strong involvement,No,City,Never,10088.0
+9065,467971,Female,No,31,Yes,Low,4.0,1.0,Private company,Unknown,No,City,Never,1261.0
+9066,467972,Male,No,22,No,Low,3.0,1.0,Private company,Unknown,No,City,Never,1261.0
+9067,467973,Female,Yes,66,Yes,Average,3.0,3.0,Private company,No involvement,No,City,Never,0.0
+9068,459005,Male,Yes,61,Yes,Low,3.0,3.0,Government,No involvement,No,City,Never,6305.0
+9069,459045,Female,Yes,88,Yes,Average,4.0,3.0,Self-employed,No involvement,No,City,Never,1261.0
+9070,459090,Male,No,31,No,Low,2.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9071,459116,Male,Yes,60,Yes,Average,5.0,2.0,Private company,Unknown,No,City,Never,2522.0
+9072,459121,Female,Yes,51,Yes,Average,6.0,1.0,Private company,Unknown,No,City,Never,3783.0
+9073,459123,Female,Yes,86,No,High,2.0,5.0,Private company,Unknown,No,City,Never,1261.0
+9074,459136,Male,Yes,47,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,0.0
+9075,459144,Male,Yes,80,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,
+9076,459160,Male,Yes,70,Yes,Average,2.0,4.0,Government,No involvement,No,City,Never,1261.0
+9077,459182,Female,Yes,46,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,1261.0
+9078,459244,Male,Yes,48,Yes,Low,1.0,5.0,Private company,Unknown,No,City,Never,1261.0
+9079,459290,Female,Yes,70,Yes,Average,2.0,4.0,Government,No involvement,No,City,Never,1261.0
+9080,459293,Male,No,21,No,Low,,,Private company,Some involvement,Yes,City,Intervention in Syria,
+9081,459354,Female,Yes,50,Yes,High,3.0,2.0,Private company,Unknown,No,City,Never,
+9082,459361,Female,No,32,Yes,Low,2.0,2.0,Private company,No involvement,No,City,Never,
+9083,459377,Male,Yes,37,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9084,459436,Female,No,66,Yes,Low,2.0,4.0,Private company,Unknown,No,City,Never,0.0
+9085,459458,Male,No,33,No,Low,,,Student,No involvement,No,City,Never,
+9086,459466,Female,Yes,48,Yes,Average,3.0,2.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9087,459505,Female,No,42,Yes,Low,1.0,5.0,Private company,No involvement,No,City,Never,
+9088,459541,Male,Yes,59,Yes,High,2.0,3.0,Private company,Unknown,No,City,Never,1261.0
+9089,459555,Female,No,28,Yes,Low,1.0,3.0,Private company,Unknown,No,City,Never,10088.0
+9090,459566,Female,Yes,37,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,16393.0
+9091,459592,Male,No,25,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9092,459607,Male,Yes,40,Yes,Average,5.0,1.0,Private company,Strong involvement,No,City,Never,6305.0
+9093,459608,Female,No,62,Yes,Low,1.0,7.0,Government,No involvement,No,City,Never,
+9094,459612,Male,No,21,No,Low,2.0,2.0,Private company,Some involvement,No,City,Never,
+9095,459626,Female,Yes,26,No,Low,3.0,1.0,Private company,Strong involvement,No,City,Never,1261.0
+9096,459665,Male,Yes,88,Yes,Low,2.0,5.0,Private company,Unknown,No,City,Never,5044.0
+9097,459693,Female,Yes,50,Yes,High,3.0,2.0,Private company,Unknown,,,,0.0
+9098,459785,Female,No,32,Yes,Low,1.0,4.0,Private company,No involvement,Yes,City,Never,
+9099,459821,Male,,71,No,High,1.0,8.0,Public company,No involvement,,,,
+9100,459867,Male,Yes,49,Yes,High,2.0,3.0,Student,No involvement,No,City,Never,0.0
+9101,459885,Female,No,38,Yes,Low,4.0,1.0,Private company,Strong involvement,No,City,Never,
+9102,459909,Male,Yes,69,Yes,Low,1.0,7.0,Private company,Unknown,No,City,Never,0.0
+9103,459949,Female,No,59,Yes,Low,1.0,6.0,Private company,Unknown,No,City,Never,0.0
+9104,459996,Male,No,55,Yes,Low,1.0,6.0,Private company,Strong involvement,No,City,Never,1261.0
+9105,459998,Male,Yes,60,No,Average,2.0,3.0,Private company,Strong involvement,No,City,Never,1261.0
+9106,460004,Female,Yes,36,Yes,Average,2.0,2.0,Private company,Strong involvement,Yes,City,Intervention in Libya,8827.0
+9107,460006,Male,No,30,No,Low,9.0,1.0,Private company,Strong involvement,Yes,City,Never,6305.0
+9108,460040,Female,Yes,62,Yes,Low,1.0,7.0,Nothing,No involvement,Yes,City,Intervention in Libya,5044.0
+9109,460099,Male,No,49,Yes,Low,1.0,5.0,,,Yes,City,Never,1261.0
+9110,460103,Male,No,26,Yes,Low,1.0,3.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9111,460105,Female,No,47,Yes,Low,1.0,5.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9112,460118,Female,Yes,36,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,5044.0
+9113,460126,Female,Yes,48,Yes,Low,,,Student,No involvement,No,City,Never,10088.0
+9114,460214,Female,Yes,45,Yes,Average,2.0,3.0,Private company,No involvement,No,City,Never,0.0
+9115,460243,Female,No,42,Yes,Low,1.0,5.0,Private company,Strong involvement,No,City,Never,10088.0
+9116,460323,Female,No,38,Yes,Low,1.0,4.0,Private company,No involvement,No,City,Never,12610.0
+9117,460336,Female,No,46,Yes,Low,1.0,5.0,Private company,Unknown,Yes,City,Intervention in Iraq,2522.0
+9118,460354,Female,No,37,Yes,Low,1.0,4.0,Private company,Unknown,Yes,City,Never,3783.0
+9119,460358,Male,No,30,No,Low,1.0,3.0,Student,No involvement,Yes,City,Never,1261.0
+9120,460365,Female,Yes,59,Yes,Low,2.0,3.0,Government,No involvement,Yes,Country-side,Never,1261.0
+9121,460392,Male,Yes,46,No,Low,1.0,5.0,Private company,Strong involvement,Yes,City,Intervention in Syria,10088.0
+9122,460440,Female,No,28,No,Low,2.0,2.0,Private company,Unknown,No,City,Never,6305.0
+9123,460467,Female,Yes,47,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,
+9124,460489,Male,No,19,No,Low,6.0,1.0,Private company,Some involvement,Yes,City,Never,11349.0
+9125,460505,Female,No,26,Yes,Low,3.0,1.0,Private company,No involvement,Yes,City,Never,1261.0
+9126,460547,Female,Yes,48,Yes,Average,,,Nothing,No involvement,Yes,City,Never,0.0
+9127,460571,Male,No,25,No,Low,3.0,1.0,Government,No involvement,Yes,City,Never,0.0
+9128,460574,Male,No,26,Yes,Low,1.0,3.0,Private company,Unknown,Yes,City,Never,1261.0
+9129,460582,Female,No,28,No,Low,1.0,3.0,Private company,Strong involvement,Yes,City,Never,0.0
+9130,460622,Female,Yes,71,Yes,High,3.0,3.0,Self-employed,No involvement,Yes,City,Never,8827.0
+9131,460627,Female,No,22,No,Low,4.0,1.0,,,Yes,City,Never,1261.0
+9132,460638,Female,No,26,Yes,Low,4.0,1.0,Private company,Unknown,Yes,City,Never,0.0
+9133,460640,Male,Yes,86,,Low,1.0,9.0,Self-employed,No involvement,Yes,City,Never,
+9134,460653,Female,No,28,No,Low,1.0,3.0,Nothing,No involvement,Yes,Country-side,Never,10088.0
+9135,460656,Female,Yes,29,Yes,Low,3.0,1.0,Private company,Unknown,No,City,Never,11349.0
+9136,460658,Female,Yes,37,Yes,Average,3.0,2.0,Student,No involvement,No,City,Never,8827.0
+9137,460686,Female,,25,No,Low,1.0,3.0,Nothing,No involvement,Yes,City,Never,10088.0
+9138,460687,Female,Yes,48,Yes,Average,2.0,3.0,Nothing,No involvement,Yes,City,Never,11349.0
+9139,460726,Male,Yes,57,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,3783.0
+9140,460729,Male,Yes,36,Yes,Low,4.0,1.0,Private company,Strong involvement,No,City,Never,11349.0
+9141,460837,Female,No,25,Yes,Low,1.0,3.0,Private company,Unknown,Yes,City,Intervention in Libya,1261.0
+9142,460870,Male,No,37,Yes,Low,,,Private company,Some involvement,Yes,Country-side,Never,
+9143,460872,Female,Yes,39,Yes,Low,2.0,2.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9144,460897,Male,No,22,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,5044.0
+9145,460899,Male,No,40,Yes,Low,3.0,2.0,Private company,Strong involvement,No,City,Never,
+9146,460905,Male,No,30,Yes,Low,1.0,3.0,Private company,Unknown,Yes,City,Never,1261.0
+9147,460945,Male,No,19,No,Low,7.0,1.0,Private company,No involvement,No,City,Never,5044.0
+9148,460977,Male,Yes,42,Yes,High,3.0,2.0,Public company,No involvement,Yes,Country-side,Never,0.0
+9149,460984,Male,Yes,38,Yes,Average,4.0,1.0,Private company,Strong involvement,No,City,Never,0.0
+9150,460991,Female,No,28,Yes,Low,3.0,1.0,Private company,Some involvement,Yes,City,Intervention in Iraq,1261.0
+9151,461037,Male,Yes,40,Yes,High,5.0,1.0,Private company,Some involvement,Yes,City,Never,
+9152,461071,Male,Yes,42,No,Average,5.0,1.0,Private company,No involvement,Yes,City,Never,1261.0
+9153,461152,Female,No,30,No,Low,,,Nothing,No involvement,Yes,City,Never,10088.0
+9154,461158,Female,No,42,Yes,Low,,,Private company,Strong involvement,Yes,City,Never,1261.0
+9155,461179,Female,Yes,25,No,Low,3.0,1.0,Private company,No involvement,Yes,City,Never,3783.0
+9156,461183,Male,No,36,No,Low,5.0,1.0,Public company,No involvement,Yes,City,Never,0.0
+9157,461214,Male,No,29,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9158,461269,Male,No,18,No,Low,4.0,1.0,Private company,Strong involvement,Yes,Country-side,Never,0.0
+9159,461340,Male,Yes,36,Yes,Average,2.0,2.0,Private company,Unknown,Yes,City,Intervention in Iraq,5044.0
+9160,461346,Male,Yes,50,Yes,Low,2.0,3.0,Private company,Unknown,No,City,Never,10088.0
+9161,461437,Male,Yes,37,Yes,Average,2.0,2.0,Private company,Strong involvement,No,City,Never,0.0
+9162,461462,Male,Yes,56,Yes,Low,3.0,2.0,Student,No involvement,No,City,Never,0.0
+9163,461501,Female,Yes,45,Yes,High,3.0,2.0,Private company,No involvement,No,City,Never,1261.0
+9164,461510,Male,Yes,45,Yes,Low,2.0,3.0,Private company,Unknown,No,City,Never,0.0
+9165,461570,Male,Yes,57,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9166,461653,Female,Yes,60,Yes,Average,2.0,3.0,Government,No involvement,No,City,Never,0.0
+9167,461724,Female,Yes,50,Yes,Low,1.0,5.0,Private company,Unknown,Yes,City,Intervention in Iraq,1261.0
+9168,461725,Female,No,30,Yes,Low,1.0,3.0,Private company,No involvement,Yes,Country-side,Never,3783.0
+9169,461778,Female,Yes,87,Yes,High,2.0,5.0,Self-employed,No involvement,No,City,Never,0.0
+9170,461824,Male,Yes,45,Yes,Low,3.0,2.0,Student,No involvement,No,City,Never,11349.0
+9171,461864,Male,No,19,Yes,Low,6.0,1.0,Student,No involvement,Yes,Country-side,Never,0.0
+9172,461931,Female,No,18,No,Low,5.0,1.0,Private company,Some involvement,,,,7566.0
+9173,461943,Male,No,25,Yes,Low,3.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9174,461968,Female,No,39,Yes,Low,1.0,4.0,Private company,Strong involvement,No,City,Never,2522.0
+9175,461978,Female,No,19,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9176,461993,Male,No,33,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,3783.0
+9177,462016,Female,Yes,38,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,7566.0
+9178,462090,Female,No,38,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,10088.0
+9179,462102,Female,No,39,Yes,Low,1.0,4.0,Government,No involvement,No,City,Never,5044.0
+9180,462116,Female,Yes,68,Yes,Average,2.0,4.0,Government,No involvement,No,City,Never,0.0
+9181,462131,Female,No,42,Yes,Low,3.0,2.0,Private company,Unknown,Yes,City,Never,10088.0
+9182,462205,Female,No,23,No,Low,4.0,1.0,Private company,Some involvement,Yes,Country-side,Never,0.0
+9183,462210,Female,Yes,42,Yes,Low,3.0,2.0,Private company,No involvement,Yes,Country-side,Never,0.0
+9184,462274,Male,Yes,47,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9185,462368,Female,Yes,31,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9186,462381,Female,Yes,48,No,High,2.0,3.0,Government,No involvement,No,City,Never,1261.0
+9187,462423,Male,Yes,66,No,High,3.0,3.0,Self-employed,No involvement,No,City,Never,0.0
+9188,462447,Male,No,22,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,11349.0
+9189,462451,Male,No,18,No,Low,9.0,1.0,Student,No involvement,No,City,Never,1261.0
+9190,462517,Female,Yes,39,Yes,High,4.0,1.0,Nothing,No involvement,No,City,Never,11349.0
+9191,462538,Female,Yes,73,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,1261.0
+9192,462542,Female,Yes,62,Yes,Average,5.0,2.0,Private company,Unknown,Yes,City,Never,11349.0
+9193,462697,Male,,47,No,Average,2.0,3.0,,,No,City,Never,0.0
+9194,462729,Male,No,28,No,Low,2.0,2.0,Private company,Some involvement,No,City,Never,1261.0
+9195,462761,Male,No,19,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,2522.0
+9196,462817,Female,Yes,73,Yes,Low,1.0,8.0,Self-employed,No involvement,No,City,Never,3783.0
+9197,462823,Male,Yes,18,Yes,Average,4.0,1.0,Private company,No involvement,No,City,Never,
+9198,462845,Male,Yes,51,Yes,Average,7.0,1.0,Government,No involvement,No,City,Never,6305.0
+9199,462854,Male,No,22,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9200,462858,Female,No,32,Yes,Low,4.0,1.0,Private company,No involvement,No,City,Never,11349.0
+9201,462874,Male,Yes,55,Yes,High,2.0,3.0,Government,No involvement,No,City,Never,0.0
+9202,462914,Female,No,26,Yes,Low,4.0,1.0,Private company,Unknown,No,City,Never,5044.0
+9203,462944,Male,Yes,42,Yes,High,3.0,2.0,Public company,No involvement,No,City,Never,6305.0
+9204,462966,Male,Yes,43,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,2522.0
+9205,462968,Female,Yes,77,No,High,2.0,4.0,Self-employed,No involvement,No,City,Never,0.0
+9206,462986,Male,No,26,Yes,Low,6.0,1.0,Private company,Some involvement,Yes,City,Never,1261.0
+9207,463039,Male,Yes,38,No,High,7.0,1.0,Public company,No involvement,No,City,Never,15132.0
+9208,463150,Male,No,51,No,Low,1.0,6.0,Student,No involvement,No,City,Never,11349.0
+9209,463195,Female,No,26,Yes,Low,2.0,2.0,Private company,Some involvement,Yes,City,Never,8827.0
+9210,463251,Male,Yes,31,No,Low,3.0,2.0,Student,No involvement,No,City,Never,2522.0
+9211,463256,Male,No,20,No,Low,3.0,1.0,Student,No involvement,No,City,Never,1261.0
+9212,463260,Male,Yes,70,Yes,Low,1.0,7.0,Self-employed,No involvement,No,City,Never,3783.0
+9213,463266,Female,Yes,68,,Average,2.0,4.0,Private company,Unknown,No,City,Never,1261.0
+9214,463324,Female,No,22,No,Low,4.0,1.0,Private company,Some involvement,Yes,City,Never,1261.0
+9215,463372,Female,Yes,26,No,Average,2.0,2.0,Student,No involvement,,,,1261.0
+9216,463420,Female,Yes,59,Yes,High,3.0,2.0,Private company,Unknown,No,City,Never,2522.0
+9217,463438,Male,Yes,47,No,Average,3.0,2.0,Private company,Strong involvement,No,City,Never,0.0
+9218,463470,Male,No,19,No,Low,5.0,1.0,Private company,Some involvement,Yes,City,Never,
+9219,463586,Female,No,18,No,Low,5.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9220,463603,Female,No,18,No,Low,4.0,1.0,Private company,Strong involvement,Yes,City,Never,0.0
+9221,463670,Female,No,26,Yes,Low,4.0,1.0,Private company,Some involvement,No,City,Never,
+9222,463703,Male,Yes,69,No,High,4.0,2.0,Public company,No involvement,No,City,Never,1261.0
+9223,463811,Female,Yes,32,Yes,Average,2.0,2.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9224,463821,Male,Yes,30,Yes,Low,2.0,2.0,Private company,Strong involvement,No,City,Never,8827.0
+9225,463835,Male,No,32,No,Low,4.0,1.0,Student,No involvement,No,City,Never,0.0
+9226,463955,Male,Yes,28,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9227,463986,Female,No,26,Yes,Low,4.0,1.0,Private company,Unknown,No,City,Never,1261.0
+9228,464019,Male,No,23,No,Low,5.0,1.0,Private company,Unknown,No,City,Never,2522.0
+9229,464046,Male,No,33,Yes,Low,1.0,4.0,Private company,Some involvement,No,City,Never,3783.0
+9230,464048,Female,No,38,Yes,Low,1.0,4.0,Nothing,No involvement,No,City,Never,5044.0
+9231,464068,Male,Yes,59,No,High,4.0,2.0,Public company,No involvement,No,City,Never,0.0
+9232,464076,Male,Yes,83,No,High,2.0,5.0,Self-employed,No involvement,No,City,Never,0.0
+9233,464180,Female,Yes,74,No,High,2.0,4.0,Self-employed,No involvement,No,City,Never,1261.0
+9234,464206,Male,Yes,43,No,Low,2.0,3.0,Private company,Strong involvement,No,City,Never,1261.0
+9235,464232,Male,Yes,28,No,Low,5.0,1.0,Government,No involvement,No,City,Never,1261.0
+9236,464332,Male,Yes,74,No,High,2.0,4.0,Public company,No involvement,No,City,Never,0.0
+9237,464364,Male,Yes,39,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,8827.0
+9238,464424,Male,No,31,Yes,Low,4.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9239,464483,Female,Yes,49,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9240,464485,Male,No,25,Yes,Low,2.0,2.0,Private company,Strong involvement,Yes,City,Never,6305.0
+9241,464528,Male,Yes,46,Yes,High,4.0,2.0,Private company,Strong involvement,Yes,City,Never,5044.0
+9242,464544,Female,Yes,43,Yes,Average,3.0,2.0,Private company,Strong involvement,No,City,Never,6305.0
+9243,464569,Male,No,29,No,Low,5.0,1.0,Government,No involvement,No,City,Never,1261.0
+9244,464576,Male,No,30,Yes,Low,5.0,1.0,Government,No involvement,No,City,Never,11349.0
+9245,464597,Male,No,41,No,Low,2.0,3.0,Private company,Unknown,No,City,Never,6305.0
+9246,464603,Female,No,35,Yes,Low,2.0,2.0,Private company,Unknown,Yes,City,Never,0.0
+9247,464621,Male,Yes,46,Yes,Low,1.0,5.0,Private company,Unknown,No,City,Never,0.0
+9248,464677,Male,Yes,23,No,Low,5.0,1.0,Private company,Some involvement,Yes,Country-side,Never,1261.0
+9249,464691,Male,No,38,Yes,Low,3.0,2.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9250,464697,Female,Yes,36,Yes,Average,4.0,1.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9251,464712,Male,Yes,49,No,Low,5.0,1.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9252,464732,Male,Yes,41,No,Average,2.0,3.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9253,464755,Male,Yes,49,Yes,High,2.0,3.0,Private company,Unknown,No,City,Never,0.0
+9254,464774,Female,Yes,50,No,Average,5.0,1.0,Private company,No involvement,Yes,Country-side,Never,8827.0
+9255,464792,Male,Yes,30,No,High,5.0,1.0,Student,No involvement,Yes,Country-side,Never,2522.0
+9256,464818,Female,Yes,38,No,Average,2.0,2.0,Private company,No involvement,Yes,Country-side,Never,
+9257,464831,Female,Yes,21,No,Low,2.0,2.0,Private company,Some involvement,Yes,Country-side,Never,0.0
+9258,464852,Male,Yes,36,No,Low,6.0,1.0,Public company,No involvement,Yes,Country-side,Never,1261.0
+9259,464854,Female,Yes,42,No,High,6.0,1.0,Private company,No involvement,Yes,Country-side,Never,0.0
+9260,464873,Male,Yes,42,Yes,Average,2.0,3.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9261,464927,Female,Yes,70,Yes,Average,2.0,4.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9262,464947,Male,No,25,No,Low,1.0,3.0,Government,No involvement,Yes,Country-side,Never,6305.0
+9263,464991,Female,Yes,87,Yes,High,2.0,5.0,Self-employed,No involvement,No,City,Never,1261.0
+9264,465045,Male,Yes,40,Yes,Average,2.0,2.0,Private company,Strong involvement,No,City,Never,11349.0
+9265,465056,Male,Yes,87,Yes,High,2.0,5.0,Self-employed,No involvement,No,City,Never,1261.0
+9266,465075,Female,Yes,43,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,
+9267,465109,Male,No,47,No,Low,2.0,3.0,Self-employed,No involvement,No,City,Never,
+9268,465111,Female,Yes,40,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,10088.0
+9269,465112,Female,Yes,86,No,High,2.0,5.0,Self-employed,No involvement,No,City,Never,0.0
+9270,465119,Female,Yes,45,Yes,Average,5.0,1.0,Private company,Unknown,No,City,Never,0.0
+9271,465164,Male,No,20,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9272,465171,Female,Yes,48,Yes,High,4.0,2.0,Private company,Unknown,No,City,Never,10088.0
+9273,465189,Female,Yes,83,Yes,High,2.0,5.0,Self-employed,No involvement,No,City,Never,1261.0
+9274,465194,Male,No,22,No,Low,6.0,1.0,Private company,Some involvement,Yes,City,Never,11349.0
+9275,465254,Male,No,22,No,Low,4.0,1.0,Private company,Some involvement,Yes,City,Intervention in Iraq,1261.0
+9276,465274,Male,No,36,Yes,Low,1.0,4.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9277,465288,Female,Yes,20,No,Low,2.0,1.0,Private company,No involvement,Yes,Country-side,Never,1261.0
+9278,465358,Female,Yes,73,Yes,High,2.0,4.0,Private company,Unknown,No,City,Never,0.0
+9279,465383,Female,Yes,30,Yes,Low,4.0,1.0,Private company,Strong involvement,No,City,Never,0.0
+9280,465410,Male,No,30,No,Low,4.0,1.0,Private company,Some involvement,Yes,City,Intervention in Libya,0.0
+9281,465419,Male,No,30,No,Low,3.0,1.0,Private company,Unknown,No,City,Never,0.0
+9282,465435,Female,No,31,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,6305.0
+9283,465464,Male,Yes,41,Yes,Average,,,Public company,No involvement,Yes,Country-side,Never,0.0
+9284,465482,Male,No,31,No,Low,2.0,2.0,Private company,Strong involvement,Yes,City,Never,11349.0
+9285,465483,Male,Yes,46,No,Average,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9286,465496,Male,Yes,84,Yes,Low,2.0,5.0,Self-employed,No involvement,Yes,City,Never,
+9287,465505,Male,Yes,63,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9288,465510,Male,Yes,67,No,High,2.0,4.0,Self-employed,No involvement,No,City,Never,0.0
+9289,465520,Female,No,27,Yes,Low,8.0,1.0,Private company,Unknown,Yes,City,Never,0.0
+9290,465558,Female,No,40,Yes,Low,1.0,4.0,Private company,Some involvement,Yes,City,Intervention in Iraq,10088.0
+9291,465571,Male,Yes,35,Yes,Average,2.0,2.0,Private company,Strong involvement,Yes,City,Never,1261.0
+9292,465584,Male,Yes,47,No,Average,2.0,3.0,Private company,Strong involvement,No,City,Never,3783.0
+9293,465629,Male,Yes,47,Yes,Average,3.0,2.0,Private company,Strong involvement,No,City,Never,2522.0
+9294,465635,Male,No,30,No,Low,2.0,2.0,Government,No involvement,Yes,Country-side,Never,1261.0
+9295,465728,Male,No,45,Yes,Low,1.0,5.0,,,Yes,Country-side,Never,1261.0
+9296,465733,Male,Yes,32,Yes,Average,2.0,2.0,Private company,Strong involvement,Yes,Country-side,Never,1261.0
+9297,465776,Female,No,41,Yes,Low,4.0,2.0,Private company,Strong involvement,No,City,Never,6305.0
+9298,465811,Male,No,28,No,Low,4.0,1.0,Private company,Some involvement,Yes,Country-side,Never,1261.0
+9299,465813,Male,No,28,No,Low,8.0,1.0,Student,No involvement,Yes,Country-side,Never,2522.0
+9300,465831,Male,Yes,42,No,High,5.0,1.0,Public company,No involvement,Yes,Country-side,Never,0.0
+9301,465865,Female,No,41,Yes,Low,1.0,5.0,Private company,Some involvement,No,City,Never,11349.0
+9302,465875,Female,No,39,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,11349.0
+9303,465941,Male,Yes,27,Yes,Low,2.0,2.0,Private company,Some involvement,No,City,Never,0.0
+9304,465961,Female,No,40,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,3783.0
+9305,465976,Male,No,40,Yes,Low,1.0,4.0,Private company,Unknown,Yes,City,Intervention in Iraq,0.0
+9306,465996,Male,No,23,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9307,466007,Male,Yes,61,No,Low,1.0,7.0,Private company,Unknown,Yes,City,Intervention in Iraq,0.0
+9308,466042,Male,Yes,47,No,Low,2.0,3.0,Private company,Strong involvement,No,City,Never,0.0
+9309,466111,Male,Yes,84,Yes,Low,2.0,5.0,Self-employed,No involvement,No,City,Never,0.0
+9310,466132,Female,No,23,No,Low,4.0,1.0,Private company,Some involvement,Yes,City,Intervention in Iraq,5044.0
+9311,466156,Female,Yes,48,Yes,Average,3.0,2.0,Government,No involvement,Yes,City,Never,10088.0
+9312,466285,Female,No,19,No,Low,5.0,1.0,Private company,Some involvement,Yes,City,Never,1261.0
+9313,466290,Female,No,18,No,Low,,,Private company,Some involvement,Yes,Country-side,Never,6305.0
+9314,466300,Female,Yes,48,Yes,Low,3.0,2.0,Private company,Unknown,Yes,City,Never,0.0
+9315,466313,Female,Yes,58,Yes,Low,1.0,6.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9316,466318,Female,No,30,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9317,466326,Male,No,23,No,Low,5.0,1.0,Private company,Some involvement,Yes,City,Never,0.0
+9318,466400,Male,Yes,43,No,Average,3.0,2.0,Private company,Unknown,Yes,City,Never,1261.0
+9319,466427,Female,Yes,25,No,Low,4.0,1.0,Student,No involvement,Yes,Country-side,Never,1261.0
+9320,466468,Male,No,30,Yes,Low,4.0,1.0,Government,No involvement,Yes,City,Never,5044.0
+9321,466483,Male,No,31,Yes,Low,1.0,4.0,Private company,Some involvement,Yes,City,Never,
+9322,466501,Male,Yes,48,Yes,Average,3.0,2.0,Private company,No involvement,Yes,City,Never,0.0
+9323,466517,Female,No,40,No,Low,1.0,4.0,Private company,No involvement,No,City,Never,
+9324,466527,Female,Yes,49,No,Low,1.0,5.0,Student,No involvement,Yes,City,Intervention in Libya,0.0
+9325,466538,Male,Yes,84,Yes,High,2.0,5.0,Self-employed,No involvement,No,City,Never,1261.0
+9326,466545,Female,No,19,No,Low,4.0,1.0,Private company,Some involvement,Yes,City,Never,1261.0
+9327,466550,Female,,22,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9328,466631,Male,Yes,58,Yes,Low,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9329,466634,Male,No,20,No,Low,5.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9330,466720,Female,Yes,59,No,Low,1.0,6.0,Self-employed,No involvement,Yes,City,Never,0.0
+9331,466765,Female,Yes,67,Yes,Low,2.0,4.0,Self-employed,No involvement,No,City,Never,1261.0
+9332,466788,Male,No,30,No,Low,2.0,2.0,Government,No involvement,No,City,Never,3783.0
+9333,466874,Male,Yes,38,Yes,Average,3.0,2.0,Private company,Strong involvement,No,City,Never,1261.0
+9334,467000,Female,No,31,Yes,Low,6.0,1.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9335,467084,Male,Yes,41,Yes,Average,7.0,1.0,Private company,Unknown,No,City,Never,1261.0
+9336,467185,Male,No,29,Yes,Low,3.0,1.0,Private company,Unknown,No,City,Never,0.0
+9337,467193,Male,Yes,88,Yes,Low,2.0,5.0,Private company,Unknown,No,City,Never,1261.0
+9338,467223,Female,Yes,53,Yes,Average,4.0,2.0,Private company,No involvement,No,City,Never,0.0
+9339,467241,Female,No,33,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,11349.0
+9340,467242,Male,No,22,No,Low,3.0,1.0,Government,No involvement,No,City,Never,0.0
+9341,467281,Male,Yes,56,Yes,Low,4.0,2.0,Self-employed,No involvement,No,City,Never,0.0
+9342,467288,Female,No,25,No,Low,5.0,1.0,Private company,Some involvement,No,City,Never,
+9343,467317,Male,No,42,Yes,Low,1.0,5.0,Private company,Unknown,Yes,City,Never,1261.0
+9344,467358,Female,Yes,52,Yes,Average,5.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9345,467375,Male,Yes,35,Yes,Low,3.0,2.0,Private company,Strong involvement,No,City,Never,7566.0
+9346,467421,Male,Yes,50,No,Average,3.0,2.0,Government,No involvement,No,City,Never,1261.0
+9347,467487,Male,Yes,42,No,Average,5.0,1.0,Private company,Unknown,Yes,Country-side,Never,1261.0
+9348,467576,Male,Yes,48,Yes,Average,3.0,2.0,Government,No involvement,No,City,Never,1261.0
+9349,467580,Male,No,27,Yes,Low,3.0,1.0,Government,No involvement,No,City,Never,
+9350,467620,Male,Yes,57,Yes,Low,3.0,2.0,Self-employed,No involvement,No,City,Never,7566.0
+9351,467641,Male,Yes,43,Yes,Average,2.0,3.0,Government,No involvement,No,City,Never,11349.0
+9352,467664,Male,Yes,35,Yes,High,4.0,1.0,Public company,No involvement,No,City,Never,5044.0
+9353,467666,Male,Yes,48,Yes,High,3.0,2.0,Public company,No involvement,No,City,Never,5044.0
+9354,467740,Male,No,19,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9355,467789,Male,No,20,No,Low,5.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9356,467828,Female,Yes,25,Yes,Average,2.0,2.0,Private company,Unknown,Yes,City,Never,0.0
+9357,467864,Female,Yes,66,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,1261.0
+9358,467913,Male,Yes,48,Yes,Low,1.0,5.0,Private company,Unknown,No,City,Never,3783.0
+9359,467930,Male,Yes,45,Yes,Average,2.0,3.0,Private company,Strong involvement,No,City,Never,5044.0
+9360,467938,Male,Yes,46,Yes,Low,1.0,5.0,Private company,Strong involvement,Yes,City,Never,6305.0
+9361,467960,Female,No,53,Yes,Low,2.0,3.0,Private company,Strong involvement,No,City,Never,
+9362,467968,Female,No,43,Yes,Low,3.0,2.0,Private company,Some involvement,Yes,City,Intervention in Iraq,11349.0
+9363,477092,Female,No,30,Yes,Low,4.0,1.0,Private company,Some involvement,No,City,Never,8827.0
+9364,474173,Male,Yes,73,Yes,Average,3.0,3.0,Private company,Unknown,No,City,Never,7566.0
+9365,474972,Male,Yes,69,No,High,9.0,1.0,Self-employed,No involvement,Yes,Country-side,Never,0.0
+9366,477959,Female,No,28,No,Low,1.0,3.0,Private company,No involvement,Yes,City,Never,0.0
+9367,477688,Female,Yes,49,Yes,Average,2.0,3.0,Private company,No involvement,No,City,Never,0.0
+9368,470043,Female,Yes,45,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,2522.0
+9369,476590,Female,No,29,Yes,Low,4.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9370,471191,Female,Yes,47,Yes,Low,4.0,2.0,Student,No involvement,No,City,Never,10088.0
+9371,475662,Male,Yes,78,No,Low,1.0,8.0,Public company,No involvement,No,City,Never,1261.0
+9372,469231,Female,Yes,45,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,3783.0
+9373,476495,Female,Yes,80,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,1261.0
+9374,469192,Male,Yes,37,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,3783.0
+9375,475710,Female,No,51,Yes,Low,1.0,6.0,Private company,Unknown,No,City,Never,1261.0
+9376,470258,Female,No,27,Yes,Low,5.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9377,472813,Male,Yes,39,No,Average,5.0,1.0,Public company,No involvement,No,City,Never,0.0
+9378,473595,Female,No,34,No,Low,5.0,1.0,Private company,Some involvement,,,,1261.0
+9379,477768,Male,Yes,62,Yes,Average,2.0,4.0,Government,No involvement,No,City,Never,0.0
+9380,475291,Female,Yes,47,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,6305.0
+9381,472996,Female,Yes,51,Yes,Average,3.0,2.0,Nothing,No involvement,No,City,Never,11349.0
+9382,473497,Male,No,34,Yes,Low,5.0,1.0,Private company,Unknown,No,City,Never,0.0
+9383,475301,Female,Yes,42,Yes,Low,3.0,2.0,Private company,Unknown,Yes,City,Never,0.0
+9384,474702,Male,Yes,61,No,Average,2.0,4.0,Private company,Unknown,Yes,Country-side,Never,2522.0
+9385,469012,Male,Yes,50,Yes,Low,5.0,1.0,Private company,Unknown,No,City,Never,3783.0
+9386,475053,Male,Yes,84,Yes,High,2.0,5.0,Public company,No involvement,No,City,Never,0.0
+9387,469420,Female,Yes,72,Yes,Low,2.0,4.0,Self-employed,No involvement,No,City,Never,0.0
+9388,474166,Male,No,33,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,6305.0
+9389,468987,Female,Yes,74,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,0.0
+9390,477745,Male,Yes,52,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,3783.0
+9391,474866,Female,No,25,No,Low,1.0,3.0,Private company,No involvement,Yes,City,Never,13871.0
+9392,471081,Female,No,22,No,Low,6.0,1.0,Private company,Some involvement,No,City,Never,2522.0
+9393,477896,Female,No,24,No,Low,3.0,1.0,Private company,Some involvement,No,City,Never,5044.0
+9394,473991,Female,No,33,Yes,Low,1.0,4.0,Private company,No involvement,No,City,Never,10088.0
+9395,476620,Female,Yes,38,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,8827.0
+9396,472594,Male,Yes,54,No,Average,5.0,2.0,Private company,Strong involvement,Yes,Country-side,Never,
+9397,472206,Female,No,31,Yes,Low,1.0,4.0,Private company,Unknown,Yes,Country-side,Never,
+9398,470697,Male,Yes,42,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,5044.0
+9399,477934,Female,No,42,Yes,Low,1.0,5.0,Private company,Unknown,No,City,Never,1261.0
+9400,470054,Male,Yes,40,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,
+9401,469576,Female,Yes,87,No,Low,,,Self-employed,No involvement,,,,
+9402,477910,Female,No,23,No,Low,3.0,1.0,Government,No involvement,Yes,City,Intervention in Iraq,1261.0
+9403,477335,Female,Yes,43,No,Average,2.0,3.0,Private company,No involvement,No,City,Never,5044.0
+9404,470263,Male,Yes,42,Yes,Low,2.0,3.0,Private company,Unknown,No,City,Never,0.0
+9405,469340,Male,Yes,55,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9406,475622,Female,Yes,44,Yes,Low,2.0,3.0,Private company,Unknown,No,City,Never,6305.0
+9407,469395,Male,Yes,44,No,Low,2.0,3.0,Public company,No involvement,No,City,Never,10088.0
+9408,477539,Male,Yes,50,Yes,Average,4.0,2.0,Private company,Unknown,Yes,City,Intervention in Iraq,
+9409,476574,Male,Yes,61,Yes,Low,2.0,4.0,Private company,Unknown,No,City,Never,8827.0
+9410,476544,Male,Yes,43,Yes,Average,3.0,2.0,Public company,No involvement,No,City,Never,1261.0
+9411,473610,Female,Yes,33,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,0.0
+9412,475539,Female,Yes,51,Yes,High,5.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9413,469823,Male,Yes,69,Yes,Low,2.0,4.0,Public company,No involvement,No,City,Never,1261.0
+9414,476315,Female,Yes,69,Yes,Low,1.0,7.0,Private company,No involvement,No,City,Never,1261.0
+9415,471735,Male,Yes,69,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,0.0
+9416,471319,Male,Yes,58,No,Average,2.0,3.0,Private company,Unknown,No,City,Never,0.0
+9417,470156,Male,No,34,Yes,Low,3.0,2.0,Private company,Some involvement,No,City,Never,1261.0
+9418,475176,Female,Yes,57,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9419,470849,Female,Yes,60,No,Low,1.0,6.0,Government,No involvement,Yes,City,Never,0.0
+9420,470563,Female,No,43,No,Low,2.0,3.0,Private company,Some involvement,Yes,City,Intervention in Syria,1261.0
+9421,471644,Male,No,33,No,Low,6.0,1.0,Private company,Some involvement,No,City,Never,1261.0
+9422,476772,Male,Yes,60,Yes,Average,4.0,2.0,Private company,Strong involvement,No,City,Never,1261.0
+9423,474291,Female,Yes,81,Yes,High,1.0,9.0,Private company,Unknown,No,City,Never,0.0
+9424,469168,Female,No,38,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,6305.0
+9425,471021,Female,,60,No,Average,3.0,2.0,Public company,No involvement,Yes,City,Never,1261.0
+9426,475083,Male,Yes,58,No,Average,3.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9427,469717,Male,Yes,51,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9428,475882,Male,No,37,Yes,Low,1.0,4.0,Private company,Unknown,No,City,Never,0.0
+9429,471996,Female,No,37,No,Low,4.0,1.0,Private company,Unknown,No,City,Never,6305.0
+9430,473331,Female,Yes,47,Yes,Low,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9431,477442,Male,Yes,58,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,
+9432,472044,Female,No,49,Yes,Low,1.0,5.0,Private company,Unknown,No,City,Never,5044.0
+9433,476006,Female,Yes,51,Yes,Low,2.0,3.0,Private company,Unknown,,,,1261.0
+9434,475729,Male,Yes,43,Yes,Average,4.0,2.0,Private company,Unknown,Yes,Country-side,Never,0.0
+9435,472078,Female,Yes,63,No,Average,2.0,4.0,Private company,Unknown,Yes,City,Never,1261.0
+9436,477873,Female,Yes,38,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,1261.0
+9437,472960,Female,Yes,59,Yes,Average,2.0,3.0,Private company,Strong involvement,No,City,Never,0.0
+9438,472110,Male,Yes,34,Yes,Average,2.0,2.0,Private company,Unknown,No,City,Never,17654.0
+9439,475269,Female,Yes,47,Yes,Average,3.0,2.0,Private company,Unknown,Yes,City,Never,1261.0
+9440,471891,Male,Yes,50,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,0.0
+9441,476935,Male,Yes,57,Yes,Average,2.0,3.0,Private company,Unknown,Yes,City,Intervention in Syria,11349.0
+9442,475233,Male,Yes,59,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,0.0
+9443,470877,Female,Yes,49,No,Average,5.0,1.0,Private company,Unknown,No,City,Never,0.0
+9444,473742,Male,Yes,58,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,0.0
+9445,473691,Female,No,35,No,Low,3.0,2.0,Nothing,No involvement,No,City,Never,0.0
+9446,471558,Male,Yes,47,Yes,Average,2.0,3.0,Private company,No involvement,No,City,Never,2522.0
+9447,475379,Male,No,32,No,Low,4.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9448,470671,Male,Yes,37,No,Average,4.0,1.0,Private company,Strong involvement,Yes,City,Never,10088.0
+9449,469384,Male,Yes,54,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,0.0
+9450,469905,Female,Yes,38,Yes,Low,2.0,2.0,Private company,Unknown,No,City,Never,6305.0
+9451,477434,Male,No,41,Yes,Low,3.0,2.0,Private company,Strong involvement,Yes,City,Intervention in Syria,0.0
+9452,470956,Female,Yes,49,Yes,Average,4.0,2.0,Private company,Unknown,Yes,City,Never,1261.0
+9453,475179,Female,Yes,63,Yes,High,2.0,4.0,Private company,Unknown,No,City,Never,1261.0
+9454,477066,Male,Yes,57,No,Low,1.0,6.0,Private company,Unknown,No,City,Never,0.0
+9455,471334,Male,Yes,65,Yes,High,2.0,4.0,Private company,Unknown,No,City,Never,0.0
+9456,475108,Male,Yes,60,Yes,Average,2.0,3.0,Government,No involvement,No,City,Never,1261.0
+9457,474144,Male,Yes,62,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,0.0
+9458,476911,Male,Yes,70,No,High,7.0,1.0,Public company,No involvement,No,City,Never,1261.0
+9459,474065,Female,Yes,37,Yes,Low,2.0,2.0,Private company,Some involvement,No,City,Never,12610.0
+9460,477758,Female,Yes,52,Yes,Low,,,Government,No involvement,No,City,Never,1261.0
+9461,472059,Male,No,49,Yes,Low,1.0,5.0,Private company,Unknown,No,City,Never,1261.0
+9462,471177,Male,Yes,38,No,Average,4.0,1.0,Public company,No involvement,Yes,City,Intervention in Syria,10088.0
+9463,475386,Male,No,38,Yes,Low,2.0,2.0,Private company,Unknown,Yes,City,Never,0.0
+9464,474481,Male,Yes,48,Yes,High,3.0,2.0,Public company,No involvement,No,City,Never,0.0
+9465,471011,Male,Yes,57,No,High,4.0,2.0,Public company,No involvement,Yes,City,Never,1261.0
+9466,474749,Female,Yes,49,No,Average,4.0,2.0,Private company,No involvement,Yes,Country-side,Never,11349.0
+9467,471787,Male,Yes,74,Yes,Average,2.0,4.0,Private company,Unknown,No,City,Never,0.0
+9468,470153,Male,No,37,Yes,Low,5.0,1.0,Private company,Strong involvement,No,City,Never,10088.0
+9469,476746,Female,Yes,71,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,0.0
+9470,470723,Female,Yes,52,Yes,High,2.0,3.0,Private company,No involvement,Yes,Country-side,Never,1261.0
+9471,469390,Female,No,43,No,Low,2.0,3.0,Private company,Unknown,No,City,Never,
+9472,472008,Female,Yes,39,Yes,Low,4.0,1.0,Private company,Unknown,Yes,City,Intervention in Libya,5044.0
+9473,469880,Female,Yes,50,Yes,Average,5.0,1.0,Private company,Unknown,Yes,City,Intervention in Iraq,0.0
+9474,469261,Female,No,34,Yes,Low,3.0,2.0,Government,No involvement,No,City,Never,0.0
+9475,475656,Male,Yes,80,No,Low,,,Self-employed,No involvement,No,City,Never,1261.0
+9476,475395,Female,Yes,45,No,Average,5.0,1.0,Private company,No involvement,Yes,Country-side,Never,0.0
+9477,471631,Male,No,31,No,Low,5.0,1.0,Student,No involvement,No,City,Never,10088.0
+9478,471740,Male,Yes,82,Yes,Low,1.0,9.0,Self-employed,No involvement,No,City,Never,1261.0
+9479,474174,Male,Yes,73,Yes,Average,3.0,3.0,Private company,Unknown,No,City,Never,7566.0
+9480,477689,Female,Yes,49,Yes,Average,2.0,3.0,Private company,No involvement,No,City,Never,0.0
+9481,470044,Female,Yes,45,Yes,Average,2.0,3.0,Private company,Unknown,No,City,Never,2522.0
+9482,476591,Female,No,29,Yes,Low,4.0,1.0,Private company,Some involvement,No,City,Never,0.0
+9483,475663,Male,Yes,78,No,Low,1.0,8.0,Public company,No involvement,No,City,Never,1261.0
+9484,469232,Female,Yes,45,Yes,Average,4.0,2.0,Private company,Unknown,No,City,Never,3783.0
+9485,476496,Female,Yes,80,Yes,High,2.0,4.0,Self-employed,No involvement,No,City,Never,1261.0
+9486,469193,Male,Yes,37,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,3783.0
+9487,475711,Female,No,51,Yes,Low,1.0,6.0,Private company,Unknown,No,City,Never,1261.0
+9488,473596,Female,No,34,No,Low,5.0,1.0,Private company,Some involvement,,,,1261.0
+9489,477769,Male,Yes,62,Yes,Average,2.0,4.0,Government,No involvement,No,City,Never,0.0
+9490,475292,Female,Yes,47,Yes,Average,3.0,2.0,Private company,Unknown,No,City,Never,6305.0
+9491,472997,Female,Yes,51,Yes,Average,3.0,2.0,Nothing,No involvement,No,City,Never,11349.0
+9492,475302,Female,Yes,42,Yes,Low,3.0,2.0,Private company,Unknown,Yes,City,Never,0.0
